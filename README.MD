@@ -3,7 +3,7 @@
   <samp>💻 Software Development Engineer | 🇮🇳 India</samp>
 </p>
 
-### 👨🏻‍💻 About Me
+---
 
 <p align="center">
   <samp>🌱 Currently exploring the vast world of <b>Web Technologies</b></samp><br>
@@ -13,8 +13,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/SheeshMirza">
@@ -27,7 +25,7 @@
 
 ---
 
-### 🚀 Let's Connect and Conquer!
+#### 🚀 Let's Connect and Conquer!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SheeshMirza">
