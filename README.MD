@@ -16,18 +16,17 @@
 
 <p align="center">
   <a href="https://github.com/SheeshMirza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheeshMirza&theme=light&hide_langs_below=1" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheeshMirza&langs_count=25&layout=compact" />
   </a>
   <a href="https://github.com/SheeshMirza">
-    <img src="https://github-readme-stats.vercel.app/api?username=SheeshMirza" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SheeshMirza&include_all_commits=true&count_private=true&show_icons=true" />
   </a>
 </p>
 
 ---
 
-#### 🚀 Let's Connect and Conquer!
-
 <p align="center">
+  <samp><b>🚀 Let's Connect and Conquer!</b></samp><br><br>
   <a href="https://www.linkedin.com/in/SheeshMirza">
     <img alt="Sheesh's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
